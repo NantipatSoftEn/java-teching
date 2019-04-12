@@ -1,7 +1,7 @@
 public class Test1 {
 
     public static void main(String[] args) {
-        number_invsert();
+        start_pyramid();
 
     }
 
@@ -38,4 +38,5 @@ public class Test1 {
     12
     1
     */ 
+    
 }
