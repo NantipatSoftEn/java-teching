@@ -37,3 +37,13 @@ public class Testarray1 {
         return result;
     }
 }
+
+
+
+// after finised 
+/*
+1.Try to change   int   arr2d =    new int[3][5]; see the result
+2. This to anather way to creating a two-dimensinal array
+3.   What do you think  naming function  ? 
+https://medium.com/coding-skills/clean-code-101-meaningful-names-and-functions-bf450456d90c
+*/
