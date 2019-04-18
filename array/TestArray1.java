@@ -1,4 +1,4 @@
-public class Testarray1 {
+public class TestArray1 {
 
     public static void main(String[] args) {
         int   arr =    [2,4,6,8,11,13,15,17,20,22,24,26,88,99,0,23];
